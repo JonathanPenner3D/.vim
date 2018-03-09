@@ -6,12 +6,14 @@ syntax on
 set background=dark
 colorscheme minimalist
 
-set tabstop=4
-set softtabstop=4
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
 set expandtab
-
 set showcmd
 set cursorline
+
+autocmd FileType python setlocal expandtab tabstop=4 shiftwidth=4 softtabstop=4
 
 filetype indent on
 
