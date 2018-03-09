@@ -1,6 +1,8 @@
 set number
 imap jk <ESC>
 
+set runtimepath+=~/.vim/bundle/vim-qml
+
 set t_Co=256
 syntax on
 set background=dark
