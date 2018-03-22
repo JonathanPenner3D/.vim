@@ -2,6 +2,7 @@ set number
 imap jk <ESC>
 
 set runtimepath+=~/.vim/bundle/vim-qml
+set runtimepath+=~/.vim/bundle/elm-vim
 
 set t_Co=256
 syntax on
@@ -23,6 +24,8 @@ set wildmenu
 set lazyredraw
 set showmatch
 
+set clipboard=unnamed
+
 set incsearch
 set hlsearch
 
@@ -36,3 +39,4 @@ nnoremap $ <nop>
 nnoremap ^ <nop>
 
 set path+=**
+
