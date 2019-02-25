@@ -7,3 +7,12 @@
 [submodule "bundle/ale"]
 	path = bundle/ale
 	url = https://github.com/w0rp/ale
+[submodule "bundle/elm-vim"]
+	path = bundle/elm-vim
+	url = https://github.com/ElmCast/elm-vim
+[submodule "bundle/neco-syntax"]
+	path = bundle/neco-syntax
+	url = https://github.com/Shougo/neco-syntax
+[submodule "bundle/vim-qml"]
+	path = bundle/vim-qml
+	url = https://github.com/peterhoeg/vim-qml
