@@ -1,3 +1,9 @@
 [submodule "bundle/deoplete-jedi"]
 	path = bundle/deoplete-jedi
 	url = https://github.com/zchee/deoplete-jedi
+[submodule "bundle/coconut-vim"]
+	path = bundle/coconut-vim
+	url = https://github.com/manicmaniac/coconut.vim
+[submodule "bundle/ale"]
+	path = bundle/ale
+	url = https://github.com/w0rp/ale
