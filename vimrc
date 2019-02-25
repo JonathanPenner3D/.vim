@@ -1,6 +1,10 @@
 set number
 imap jk <ESC>
 
+set rtp+=~/.vim/bundle/emmet-vim-master
+set rtp+=~/.vim/bundle/deoplete.nvim-master
+set rtp+=~/.vim/bundle/deoplete-jedi
+set rtp+=~/.vim/bundle/neco-syntax
 set runtimepath+=~/.vim/bundle/vim-qml
 set runtimepath+=~/.vim/bundle/elm-vim
 
@@ -37,6 +41,8 @@ nnoremap E $
 
 nnoremap $ <nop>
 nnoremap ^ <nop>
+
+let g:deoplete#enable_at_startup = 1
 
 set path+=**
 

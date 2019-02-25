@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/jonathanpenner/Library/Mobile Documents/com~apple~CloudDocs/workspace/wikipedia'
+let g:netrw_dirhist_2='/Users/jonathanpenner/Library/Mobile Documents/com~apple~CloudDocs/workspace/wikipedia/src'
+let g:netrw_dirhist_3='/Users/jonathanpenner/Library/Mobile Documents/com~apple~CloudDocs/workspace/wikipedia'
+let g:netrw_dirhist_4='/Users/jonathanpenner/Library/Mobile Documents/com~apple~CloudDocs/workspace/wikipedia/public'
+let g:netrw_dirhist_5='/Users/jonathanpenner/Library/Mobile Documents/com~apple~CloudDocs/workspace/wikipedia'
+let g:netrw_dirhist_6='/Users/jonathanpenner/Library/Mobile Documents/com~apple~CloudDocs/workspace/wikipedia/src'
+let g:netrw_dirhist_7='/Users/jonathanpenner/Library/Mobile Documents/com~apple~CloudDocs/workspace/wikipedia'
+let g:netrw_dirhist_8='/Users/jonathanpenner/Library/Mobile Documents/com~apple~CloudDocs/workspace/wikipedia/src'

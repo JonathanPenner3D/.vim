@@ -1,0 +1,3 @@
+[submodule "bundle/deoplete-jedi"]
+	path = bundle/deoplete-jedi
+	url = https://github.com/zchee/deoplete-jedi
