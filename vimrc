@@ -1,7 +1,12 @@
 set number
 imap jk <ESC>
 
-set t_Co=256
+set rtp+=~/.vim/bundle/emmet-vim-master
+set rtp+=~/.vim/bundle/deoplete.nvim-master
+set rtp+=~/.vim/bundle/deoplete-jedi
+set rtp+=~/.vim/bundle/neco-syntax
+
+"set t_Co=256
 syntax on
 set background=dark
 colorscheme minimalist
@@ -32,5 +37,7 @@ nnoremap E $
 
 nnoremap $ <nop>
 nnoremap ^ <nop>
+
+let g:deoplete#enable_at_startup = 1
 
 set path+=**
