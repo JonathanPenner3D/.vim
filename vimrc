@@ -42,7 +42,9 @@ nnoremap E $
 nnoremap $ <nop>
 nnoremap ^ <nop>
 
-let g:deoplete#enable_at_startup = 1
+if has('nvim')
+  let g:deoplete#enable_at_startup = 1
+endif
 
 set path+=**
 
